@@ -1,0 +1,23 @@
+.header{
+	height:200px;
+}
+.bcontainer{
+	width:600px;
+	margin: 0px auto;
+}
+.logo{
+	margin-top: -120px;
+	text-align: center;
+	border:10px solid #fff;
+	width:90%;
+}
+.logocolor{
+	color:#16a086;
+}
+.logoname{
+	font-size: 60px;
+	font-weight: bold;
+}
+.info{
+	padding: 20px;
+}
