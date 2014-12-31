@@ -1,0 +1,106 @@
+
+/** MEEMO TEMPLATE STYLE SHEET 
+ ** Designed by Krishna Teja
+ ** Dated 31st Dec 2014
+ ** packetcode.com
+ **/ 
+ 
+/* Global */
+	.bcontainer{
+		max-width:900px;
+		margin:50px auto;
+		padding: 0px;
+		border-radius: 2px;
+		box-shadow: 1px 1px 2px #888888;
+	}
+	
+	.strip-top{
+		padding:2px;
+	}
+	.strip-bottom{
+		padding: 5px;
+	}
+
+	.wrap{
+		padding:30px;
+	}
+
+	.wrap2{
+		padding: 20px;
+		padding-left: 40px;
+	}
+
+	.brown{
+		font-size: 18px;
+		color:#A87F09;
+		padding-right: 40px;
+	}
+
+	.sub-title{
+		font-size: 20px;
+		font-family: "open Sans",Arial;
+	}
+
+	.menu-icon{
+		background: white;
+		padding: 8px;
+		font-size: 28px;
+		text-align: center;
+		border-radius: 40px;
+		margin-bottom: 20px;
+	}
+
+	.name{
+		font-size: 80px;
+		line-height: 100px;
+		color:white;
+		font-family: 'Oswald',cursive;
+	}
+
+	.image-container{
+		padding: 5px;
+		box-shadow: 1px 1px 2px #888888;
+	}
+
+	.image-container img{
+		display: block;
+	}
+
+	.project{
+		font-weight: bold;
+		margin-bottom: 10px;
+	}
+	.project-info{
+		margin-bottom: 20px;
+	}
+
+	.padb20{
+		padding-bottom: 20px;
+	}
+
+	small{
+		color:#f8f8f8;
+	}
+
+	.brown small{
+		color:#A87F09;
+	}
+
+/* contact page */
+	
+	.input{
+		padding: 0px;
+	}
+
+	.feild{
+		width:100%;
+	}
+
+	.textbox{
+		width:100%;
+		height:100px;
+		font-size: 18px;
+	}
+
+
+	
